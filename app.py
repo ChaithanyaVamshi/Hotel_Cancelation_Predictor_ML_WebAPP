@@ -3,7 +3,7 @@ import pickle,bz2
 import time
 import numpy as np
 
-pickle_in = bz2.BZ2File('modelfinal.pkl','rb')
+pickle_in = bz2.BZ2File('dtmodelfinal.pkl','rb')
 model = pickle.load(pickle_in)
 
 @st.cache(persist=True)
