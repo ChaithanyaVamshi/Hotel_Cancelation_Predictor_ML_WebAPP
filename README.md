@@ -1,1 +1,1 @@
-# Hotel_Cancelation_Predictor_ML_WebAPP
+# Hotel Cancelation Predictor ML WebAPP
