@@ -66,9 +66,8 @@ This dataset contains booking information for a City hotel and a Resort hotel, a
 
 **Link for Python Code available on GitHub :** <https://github.com/ChaithanyaVamshi/Hotel_Cancelation_Predictor_ML_WebAPP/blob/main/Hotel_Cancelation_Predictor.ipynb>
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/aP_RoSbcxGA" title="YouTube video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+![](https://www.youtube.com/embed/aP_RoSbcxGA)
 
 ### Video Demonstration of Machine Learning Project
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/Bv3ioEVN6a4" title="YouTube video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/Bv3ioEVN6a4) 
