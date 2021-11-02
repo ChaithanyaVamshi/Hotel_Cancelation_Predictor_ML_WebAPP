@@ -62,12 +62,12 @@ This dataset contains booking information for a City hotel and a Resort hotel, a
 
 **Link to the ML Web app :** <https://cancelation-predictor.herokuapp.com/>
 
-**Link for Blog: ** <https://chaithanyavamshi.github.io/2021/10/25/blog.html>
+**Link for Blog:** <https://chaithanyavamshi.github.io/2021/10/25/blog.html>
 
 **Link for Python Code available on GitHub :** <https://github.com/ChaithanyaVamshi/Hotel_Cancelation_Predictor_ML_WebAPP/blob/main/Hotel_Cancelation_Predictor.ipynb>
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/embed/aP_RoSbcxGA)
+<https://www.youtube.com/embed/aP_RoSbcxGA>
 
 ### Video Demonstration of Machine Learning Project
 
-![](https://www.youtube.com/embed/Bv3ioEVN6a4) 
+<https://www.youtube.com/embed/Bv3ioEVN6a4>
