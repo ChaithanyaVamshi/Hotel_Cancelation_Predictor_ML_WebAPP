@@ -57,4 +57,18 @@ This dataset contains booking information for a City hotel and a Resort hotel, a
 
 - After building a model, the final stage of the machine learning lifecycle is to deploy the ML model.
 - In this project, I have deployed Machine Learning Model on Heroku Cloud using Python and Streamlit. Once we have deployed it on the cloud, we have successfully built a Data Science product that can be used by the Business User/ Customer.
-- Link to the ML Web app: https://cancelation-predictor.herokuapp.com/
+
+### ML Web App Demonstration Video
+
+**Link to the ML Web app :** <https://cancelation-predictor.herokuapp.com/>
+
+**Link for Blog: ** <https://chaithanyavamshi.github.io/2021/10/25/blog.html>
+
+**Link for Python Code available on GitHub :** <https://github.com/ChaithanyaVamshi/Hotel_Cancelation_Predictor_ML_WebAPP/blob/main/Hotel_Cancelation_Predictor.ipynb>
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/aP_RoSbcxGA" title="YouTube video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+### Video Demonstration of Machine Learning Project
+
+<iframe width="800" height="500" src="https://www.youtube.com/embed/Bv3ioEVN6a4" title="YouTube video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
